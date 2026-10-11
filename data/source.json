@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "segment": "ops",
+    "value": 47,
+    "status": "degraded"
+  },
+  {
+    "id": 2,
+    "segment": "ops",
+    "value": 54,
+    "status": "down"
+  },
+  {
+    "id": 3,
+    "segment": "ops",
+    "value": 61,
+    "status": "healthy"
+  },
+  {
+    "id": 4,
+    "segment": "ops",
+    "value": 68,
+    "status": "degraded"
+  },
+  {
+    "id": 5,
+    "segment": "ops",
+    "value": 75,
+    "status": "down"
+  },
+  {
+    "id": 6,
+    "segment": "ops",
+    "value": 82,
+    "status": "healthy"
+  },
+  {
+    "id": 7,
+    "segment": "ops",
+    "value": 89,
+    "status": "degraded"
+  },
+  {
+    "id": 8,
+    "segment": "ops",
+    "value": 96,
+    "status": "down"
+  },
+  {
+    "id": 9,
+    "segment": "ops",
+    "value": 103,
+    "status": "healthy"
+  },
+  {
+    "id": 10,
+    "segment": "ops",
+    "value": 110,
+    "status": "degraded"
+  },
+  {
+    "id": 11,
+    "segment": "ops",
+    "value": 117,
+    "status": "down"
+  },
+  {
+    "id": 12,
+    "segment": "ops",
+    "value": 124,
+    "status": "healthy"
+  }
+]
